@@ -1,0 +1,21 @@
+.pr-card {
+    box-shadow: 1px 1px 5px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.pr-section {
+    padding-left: 0;
+    padding-right: 0px;
+    width: 100%;
+}
+
+.bs-sidebar {
+    margin-top: 100px;
+}
+
+@media (max-width:564px) {
+    .pr-card {
+        margin-left: 20px;
+    }
+}
